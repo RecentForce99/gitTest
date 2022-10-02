@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 .gitignore
+index.php
+.vscode
 =======
 index.php
 >>>>>>> 402ba5e (Vladek)
